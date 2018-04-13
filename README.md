@@ -119,4 +119,8 @@ sergio gonzalez reyes / san gaspar/ 7224201210
 Osvaldo Franco / Valle de Bravo/ Que chow inge
 
 
+
 Uriel Cipriano vidal  / Amanalco/ 7227947232
+
+Martín G. López / san fidel mzn 115 lte 30 / 7226082348
+
