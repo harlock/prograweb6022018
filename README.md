@@ -70,6 +70,9 @@ la peña calle del tambor
 Victor Hugo Baca Salazar
 San Nicolas Tolentino
 722470480
+Diego ivan Gonzalez Benitez
+valle de bravo		
+7226685614
 
 
 
@@ -78,15 +81,6 @@ San Nicolas Tolentino
 
 
 
-
-
-
-
-
-Conflicto Pablo
-si pude :v
-homero papi loco
-si pude 
 
 
 
