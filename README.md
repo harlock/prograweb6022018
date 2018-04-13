@@ -5,6 +5,10 @@ primero modificacion por cesar
 Modificacion Martín G. López
 Modificacion Gabriel Carmona Sanchez
 Modificación Pablo Rodriguez
+
+
+Hola amigos de Progra WEB
+
 Modificacion Jesus Rodriguez
 
 tercera modificacion Jesus Rodriguez
@@ -16,6 +20,7 @@ hola a todos los #$%&@s
 Segunda modificacion de Jesus Rodriguez
 
 Segunda modificacion Martin G. López
+
 cuarta modificacion jesus rodriguez
 git status
 git add
