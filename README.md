@@ -10,6 +10,7 @@ César Primero Huerta
 
 Segunda modificacion de Jesus Rodriguez
 
+Segunda modificacion Martin G. López
 git status
 git add
 git commit -m "hola"
