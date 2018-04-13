@@ -27,3 +27,5 @@ git add
 git commit -m "hola"
 git pull
 git push
+
+Conflicto Pablo
