@@ -92,3 +92,19 @@ si pude
 
 
 JUAN PABLO RODRIGUEZ RODRIGUEZ / AV. JUAREZ #420 /7224595723
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sergio gonzalez reyes / san gaspar/ 7224201210
