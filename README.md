@@ -34,6 +34,7 @@ git commit -m "hola"
 git pull
 git push
 
+<<<<<<< HEAD
 
 
 
@@ -56,6 +57,7 @@ git push
 
 
 
+GCS--- que onda chavos
 
 
 
@@ -71,5 +73,5 @@ git push
 
 
 
-GCS que paso chavos
-GCS que paso chavos
+Conflicto Pablo
+si pude c45a83c5fc1494d156c5eb34a926b3d2a25
