@@ -27,13 +27,12 @@ Segunda modificacion de Jesus Rodriguez
 Segunda modificacion Martin G. López
 
 cuarta modificacion jesus rodriguez
->>>>>>> 43cd1dda24d1f4247dd9af822f6ff0e042553ce0
+
 git status
 git add
 git commit -m "hola"
 git pull
 git push
-<<<<<<< HEAD
 
 
 
