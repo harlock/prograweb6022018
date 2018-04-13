@@ -30,6 +30,8 @@ Segunda modificacion Martin G. López
 
 cuarta modificacion jesus rodriguez
 
+
+
 git status
 git add
 git commit -m "hola"
@@ -115,3 +117,6 @@ sergio gonzalez reyes / san gaspar/ 7224201210
 
 
 Osvaldo Franco / Valle de Bravo/ Que chow inge
+
+
+Uriel Cipriano vidal  / Amanalco/ 7227947232
