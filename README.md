@@ -9,6 +9,7 @@ Modificacion Gabriel Carmona Sanchez
 GCS que paso chavos
 
 Modificación Pablo Rodriguez
+
 CONFLICTO RESUELTO, by Pablo
 
 
@@ -34,6 +35,8 @@ git add
 git commit -m "hola"
 git pull
 git push
+
+resolver mas conflictos
 
 
 
