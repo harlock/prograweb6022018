@@ -1,4 +1,4 @@
-﻿# prograweb6022018
+# prograweb6022018
 hola mundo desde repo local
  hola mundo desde el repo remoto
 primero modificacion por cesar
@@ -66,6 +66,11 @@ GCS--- que onda chavos
 Jesus Rodriguez Menchaca 
 la peña calle del tambor
 7221389763
+
+Victor Hugo Baca Salazar
+San Nicolas Tolentino
+722470480
+
 
 
 
