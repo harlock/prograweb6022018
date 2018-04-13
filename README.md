@@ -5,6 +5,7 @@ primero modificacion por cesar
 Modificacion Martín G. López
 Modificacion Gabriel Carmona Sanchez
 Modificación Pablo Rodriguez
+CONFLICTO RESUELTO, by Pablo
 
 
 Hola amigos de Progra WEB
