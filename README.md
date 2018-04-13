@@ -4,6 +4,10 @@ hola mundo desde repo local
 primero modificacion por cesar
 Modificacion Martín G. López
 Modificacion Gabriel Carmona Sanchez
+
+
+GCS que paso chavos
+
 Modificación Pablo Rodriguez
 CONFLICTO RESUELTO, by Pablo
 
@@ -11,6 +15,7 @@ CONFLICTO RESUELTO, by Pablo
 Hola amigos de Progra WEB
 
 Modificacion Jesus Rodriguez
+
 
 tercera modificacion Jesus Rodriguez
 
@@ -23,11 +28,51 @@ Segunda modificacion de Jesus Rodriguez
 Segunda modificacion Martin G. López
 
 cuarta modificacion jesus rodriguez
+
 git status
 git add
 git commit -m "hola"
 git pull
 git push
 
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GCS--- que onda chavos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Conflicto Pablo
-si pude :v
+si pude c45a83c5fc1494d156c5eb34a926b3d2a25
