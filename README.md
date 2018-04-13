@@ -124,3 +124,7 @@ Uriel Cipriano vidal  / Amanalco/ 7227947232
 
 Martín G. López / san fidel mzn 115 lte 30 / 7226082348
 
+Gabriel Carmona Sanchez
+7228066023
+el fresno
+
