@@ -1,4 +1,6 @@
 ﻿# prograweb6022018
+hola mundo desde repo local
+ hola mundo desde el repo remoto
 primero modificacion por cesar
 Modificacion Martín G. López
 Modificacion Gabriel Carmona Sanchez
@@ -11,6 +13,8 @@ Modificacion Jesus Rodriguez
 
 
 César Primero Huerta
+
+hola a todos los #$%&@s
 
 Segunda modificacion de Jesus Rodriguez
 
