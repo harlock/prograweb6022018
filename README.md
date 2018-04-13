@@ -2,6 +2,7 @@
 primero modificacion por cesar
 Modificacion Martín G. López
 Modificacion Gabriel Carmona Sanchez
+Modificación Pablo Rodriguez
 git status
 git add
 git commit -m "hola"
