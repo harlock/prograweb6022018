@@ -9,6 +9,7 @@ Modificacion Gabriel Carmona Sanchez
 GCS que paso chavos
 
 Modificación Pablo Rodriguez
+CONFLICTO RESUELTO, by Pablo
 
 
 Hola amigos de Progra WEB
