@@ -75,9 +75,7 @@ GCS--- que onda chavos
 
 
 Conflicto Pablo
-<<<<<<< HEAD
 si pude :v
 homero papi loco
-=======
 si pude c45a83c5fc1494d156c5eb34a926b3d2a25
 >>>>>>> 699565a6edf920761f4435be8e5b1d0ec3a647b4
