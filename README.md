@@ -65,7 +65,7 @@ resolver mas conflictos
 
 GCS--- que onda chavos
 
-Jesus Rodriguez Menchaca 
+Jesus Rodriguez Menchaca
 la peña calle del tambor
 7221389763
 
@@ -116,7 +116,7 @@ sergio gonzalez reyes / san gaspar/ 7224201210
 
 
 
-Osvaldo Franco / Valle de Bravo/ Que chow inge
+
 
 
 
@@ -127,4 +127,3 @@ Martín G. López / san fidel mzn 115 lte 30 / 7226082348
 Gabriel Carmona Sanchez
 7228066023
 el fresno
-
