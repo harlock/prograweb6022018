@@ -1,0 +1,14 @@
+body{
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+
+button{
+	width: 100px;
+	height: 40px;
+}
+
+body head table tr td input{
+	padding: 200;
+}
