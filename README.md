@@ -1,4 +1,4 @@
-# prograweb6022018
+﻿rograweb6022018
 hola mundo desde repo local
  hola mundo desde el repo remoto
 primero modificacion por cesar
@@ -29,6 +29,8 @@ Segunda modificacion de Jesus Rodriguez
 Segunda modificacion Martin G. López
 
 cuarta modificacion jesus rodriguez
+
+
 
 git status
 git add
@@ -63,7 +65,7 @@ resolver mas conflictos
 
 GCS--- que onda chavos
 
-Jesus Rodriguez Menchaca 
+Jesus Rodriguez Menchaca
 la peña calle del tambor
 7221389763
 
@@ -82,7 +84,7 @@ valle de bravo
 
 
 
-
+jesus angel bartolo bastida 5510599695
 
 
 
@@ -91,3 +93,34 @@ valle de bravo
 
 
 JUAN PABLO RODRIGUEZ RODRIGUEZ / AV. JUAREZ #420 /7224595723
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sergio gonzalez reyes / san gaspar/ 7224201210
+
+
+
+
+
+
+
+
+Uriel Cipriano vidal  / Amanalco/ 7227947232
+
+Martín G. López / san fidel mzn 115 lte 30 / 7226082348
+
+Gabriel Carmona Sanchez
+7228066023
+el fresno
