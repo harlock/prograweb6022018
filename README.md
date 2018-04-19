@@ -124,3 +124,10 @@ Martín G. López / san fidel mzn 115 lte 30 / 7226082348
 Gabriel Carmona Sanchez
 7228066023
 el fresno
+
+
+
+
+
+
+https://swebdeveloper.com/apps/forms-plus-css/images/livepreview/forms/stepsAlt.png
