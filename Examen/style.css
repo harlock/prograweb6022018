@@ -1,0 +1,86 @@
+header
+{
+  border: solid 1px black;
+  background: purple;
+  font-size: 14px;
+}
+
+
+
+body
+{
+  background: #7465b1;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+body main article h1
+{
+  border: solid 1px black;
+}
+
+body main article form
+{
+  border: solid 1px black;
+  background: white;
+  margin-left: 50%;
+  margin-right: 10%;
+}
+
+body main article form div h1[name=video]
+{
+  border: solid 1px black;
+  background: black;
+  color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 5em 2.5em;
+}
+
+body main article form div p
+{
+
+  background: white;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+body main article form div button[name="principal"]
+{
+
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+}
+
+body main article form div button[name="virtual"]
+{
+  
+  margin-top: 5%;
+  margin-left: 50%;
+  margin-bottom: 5%;
+}
+
+footer
+{
+  border: solid 1px black;
+  background: black;
+  margin-top: 5%;
+  padding: 1em 2.5em;
+}
+
+footer form[name="footer"]
+{
+  background: white;
+  margin-top: 1%;
+  padding: 5em 2.5em;
+}
+
+footer form h1[name="imagenFoot"]
+{
+  border: solid 1px black;
+  color: white;
+  background: black;
+  padding: 5em
+}
